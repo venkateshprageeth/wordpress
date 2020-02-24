@@ -27,7 +27,7 @@
       <scope>test</scope>
     </dependency>
 <dependency>
-			<groupId>org.vx68k.quercus</groupId>
+		<groupId>org.vx68k.quercus</groupId>
 			<artifactId>quercus</artifactId>
 			<version>4.0.42-MOD3</version>
 		</dependency>
