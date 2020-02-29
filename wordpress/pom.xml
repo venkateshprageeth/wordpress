@@ -77,7 +77,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>maven--jfrog-snapshots</name>
-        <url>http://35.202.123.106:8081/artifactory/venkat-snapshot</url>
+        <url>http://35.223.134.14:8081/artifactory/venkat-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 
